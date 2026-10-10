@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ap_labs\\PR5.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36DC63E3-F612-405E-8F74-E00B7BF74952}|PR5.2\\PR5.2.vcxproj|E:\\ap_labs\\PR5.2\\PR5.2\\lab5.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36DC63E3-F612-405E-8F74-E00B7BF74952}|PR5.2\\PR5.2.vcxproj|solutionrelative:PR5.2\\lab5.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2A9499-A654-0BB9-2EFB-459ED3F4B55E}|UnitTest5.2\\UnitTest5.2.vcxproj|E:\\ap_labs\\PR5.2\\UnitTest5.2\\UnitTest5.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F2A9499-A654-0BB9-2EFB-459ED3F4B55E}|UnitTest5.2\\UnitTest5.2.vcxproj|solutionrelative:UnitTest5.2\\UnitTest5.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest5.2.cpp",
+              "DocumentMoniker": "E:\\ap_labs\\PR5.2\\UnitTest5.2\\UnitTest5.2.cpp",
+              "RelativeDocumentMoniker": "UnitTest5.2\\UnitTest5.2.cpp",
+              "ToolTip": "E:\\ap_labs\\PR5.2\\UnitTest5.2\\UnitTest5.2.cpp",
+              "RelativeToolTip": "UnitTest5.2\\UnitTest5.2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-10T13:27:40.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab5.2.cpp",
+              "DocumentMoniker": "E:\\ap_labs\\PR5.2\\PR5.2\\lab5.2.cpp",
+              "RelativeDocumentMoniker": "PR5.2\\lab5.2.cpp",
+              "ToolTip": "E:\\ap_labs\\PR5.2\\PR5.2\\lab5.2.cpp",
+              "RelativeToolTip": "PR5.2\\lab5.2.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-09T10:42:24.552Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
